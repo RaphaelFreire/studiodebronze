@@ -104,6 +104,14 @@ p {
   }
 }
 
+@media (max-width: 465px) {
+  .light-version-logo,
+  .light-shape {
+    width: 245px;
+  }
+}
+
+
 
 
 .dark-version-logo,
